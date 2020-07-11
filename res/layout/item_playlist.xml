@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_playlist"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+   <ListView 
+    android:id="@+id/listview_playlist"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:divider="#ffffffff"
+    android:dividerHeight="1dip">
+   </ListView>
+   <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="1dip"
+    android:background="#ffffffff">
+   </LinearLayout>   
+</LinearLayout>
