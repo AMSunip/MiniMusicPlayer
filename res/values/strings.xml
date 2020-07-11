@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="about">关于</string>
+    <string name="aboutmini">关于迷你音乐播放器</string>
+    <string name="action_settings">Settings</string>
+    <string name="allcycle">列表循环</string> 
+    <string name="allplay">顺序播放</string> 
+    <string name="app_name">迷你音乐播放器</string>
+    <string name="app_version">迷你音乐播放器  V2.5.0</string>  
+    <string name="author">作者：艾明</string>
+    <string name="authoremail">联系我们：2274732921@qq.com</string>
+    <string name="authorinformation">作者信息：武汉大学2011级本科生</string>
+    
+    <string name="backtowindows">返回桌面</string> 
+    
+    <string name="cancel">取消</string>
+    <string name="changemusic">随便听听</string> 
+    <string name="changetheme">更换主题</string>
+    <string name="copyright">Copyright 2013-2017 AMSunip</string>
+    <string name="currentmode">当前模式:列表循环</string>    
+    
+    <string name="delete">删除</string>
+    <string name="deletemusicfile">同时删除歌曲文件</string>
+    <string name="deletemusic">删除歌曲</string>
+    
+    <string name="exit">退出</string>
+    <string name="exitmini">退出程序</string>
+    
+    <string name="introduction">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;迷你音乐播放器--“音”为有您，生活才充满“乐”趣。</string>
+     
+    <string name="mainpage">主界面</string> 
+   
+    <string name="playing">正在播放:\n</string>     
+    <string name="playlist">播放列表</string>  
+    <string name="playmode">播放模式</string>  
+    <string name="positionmusic">定位歌曲</string>   
+    <string name="progress">进度:</string>
+    
+    <string name="refreshplaylist">刷新列表</string> 
+    
+    <string name="save">保存</string> 
+    <string name="setting">设置</string> 
+    <string name="shuffle">随机播放</string> 
+    <string name="singlecycle">单曲循环</string> 
+    <string name="singleplay">单曲播放</string> 
+    <string name="startsetting">启动设置</string> 
+    <string name="startsettingplaying">启动后播放音乐</string>
+    <string name="suggestion">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;欢迎提出宝贵的意见或建议，您的支持是我们永远前进的动力。</string>
+    
+    <string name="themesetting">主题设置</string>
+    <string name="theme_blackcool">炫酷极夜</string>
+    <string name="theme_classical">古典怀旧</string>    
+    <string name="theme_original">极致简约</string>
+    <string name="theme_refresh">梦幻清新</string>
+    
+    <string name="updatetime">更新时间：2017年02月11日</string>
+    
+    <string name="versionnumber">版本信息：V2.5.0</string>
+    <string name="volume">音量:</string>
+     
+</resources>
